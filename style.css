@@ -18,8 +18,25 @@ header {
 }
 
 main {
-    background-color: rgb(45, 44, 44);
+    background-color: white;
     margin: 3rem;
+}
+
+.form-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    margin-top: 15px;
+}
+
+button {
+    margin-top: 20px;
 }
 
 .row {
