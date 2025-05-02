@@ -17,11 +17,11 @@ require_once('server.php');
     <header>
         <h1>
             Songibles
-
         </h1>
     </header>
     <main>
         <div class="container">
+         <h3><?php echo $_SESSION['messaggio']?></h3>
         <!-- aggiungi un nuvo album -->
         <div class="form-container">
             <h4 class="text-center mb-4">Inserisci Nuovo Elemento</h4>
@@ -65,9 +65,7 @@ require_once('server.php');
 
                 <?php
                     }
-
-                    var_dump($_SESSION);
-                    ?>    
+                ?>    
             </div>
         </div>
     </main>

@@ -1,1 +1,58 @@
-[{"title":"Arrival","artist":"ABBA","cover_url":".\/image\/abba.jpg","year":1976,"genre":"Pop"},{"title":"La vita \u00e8 adesso","artist":"Claudio Baglioni","cover_url":".\/image\/baglioni.jpg","year":1985,"genre":"Pop"},{"title":"Highway 61 Revisited","artist":"Bob Dylan","cover_url":".\/image\/bobdylan.jpg","year":1965,"genre":"Folk Rock"},{"title":"Anime salve","artist":"Fabrizio De Andre","cover_url":".\/image\/deandre.jpg","year":1996,"genre":"Folk"},{"title":"Nevermind","artist":"Nirvana","cover_url":".\/image\/nirvana.jpg","year":1991,"genre":"Grunge"},{"title":"The Dark Side of the Moon","artist":"Pink Floyd","cover_url":".\/image\/pinkfloyd.jpg","year":1973,"genre":"Progressive Rock"},{"title":"A Night at the Opera","artist":"Queen","cover_url":".\/image\/queen.jpg","year":1975,"genre":"Rock"},{"title":"Oro Incenso & Birra","artist":"Zucchero","cover_url":".\/image\/zucchero.jpg","year":1989,"genre":"Blues Rock"},{"title":"eros ramazzotti","artist":"eros","cover_url":".\/image\/eros.jpg","year":"1998","genre":"pop"},{"title":"prova","artist":"alfio","cover_url":".\/image\/eros.jpg","year":"2001","genre":"pop"},{"title":"prova","artist":"alfio","cover_url":".\/image\/eros.jpg","year":"2001","genre":"pop"},{"title":"Mirko","artist":"di bello","cover_url":".\/image\/Screenshot 2025-05-01 alle 17.46.46.png","year":"2001","genre":"giovanni"},{"title":"Mirko","artist":"di bello","cover_url":".\/image\/Screenshot 2025-05-01 alle 12.19.16.png","year":"1998","genre":"prova genre"},{"title":"fin che la barca va","artist":"eros","cover_url":".\/image\/eros.jpg","year":"1998","genre":"giovanni"},{"title":"fin che la barca va","artist":"eros","cover_url":".\/image\/eros.jpg","year":"1998","genre":"giovanni"},{"title":"fin che la barca va","artist":"eros","cover_url":".\/image\/eros.jpg","year":"1998","genre":"giovanni"},{"title":"prova","artist":"eros","cover_url":".\/image\/Screenshot 2025-05-01 alle 12.38.27.png","year":"1998","genre":"giovanni"},{"title":"provaciao","artist":"di bello","cover_url":".\/image\/Screenshot 2025-05-01 alle 12.38.27.png","year":"1998","genre":"giovanni"},{"title":"eros ramazzotti","artist":"eros","cover_url":".\/image\/pattern_waves-7_1_2_0-0_0_1__hsla(240, 7_, 18_, 1.00)_hsla(0, 6_, 50_, 1.00)_hsla(3, 67_, 11_, 1.00).png","year":"1998","genre":"giovanni"},{"title":"Mirko","artist":"di bello","cover_url":".\/image\/flag-for-flag-italy-svgrepo-com.svg","year":"1998","genre":"giovanni"},{"title":"eros ramazzotti","artist":"eros","cover_url":".\/image\/eros.jpg","year":"2312","genre":"giovanni"},{"title":"prova 1","artist":"di bello","cover_url":".\/image\/eros.jpg","year":"1998","genre":"giovanni"},{"title":"provaciao","artist":"eros","cover_url":".\/image\/eros.jpg","year":"2312","genre":"prova genre"},{"title":"Mirko","artist":"di bello","cover_url":".\/image\/Screenshot 2025-05-01 alle 12.38.27.png","year":"2001","genre":"pop"},{"title":"fin che la barca va","artist":"eros","cover_url":".\/image\/eros.jpg","year":"1998","genre":"giovanni"}]
+[
+    {
+        "title": "Arrival",
+        "artist": "ABBA",
+        "cover_url": ".\/image\/abba.jpg",
+        "year": 1976,
+        "genre": "Pop"
+    },
+    {
+        "title": "La vita \u00e8 adesso",
+        "artist": "Claudio Baglioni",
+        "cover_url": ".\/image\/baglioni.jpg",
+        "year": 1985,
+        "genre": "Pop"
+    },
+    {
+        "title": "Highway 61 Revisited",
+        "artist": "Bob Dylan",
+        "cover_url": ".\/image\/bobdylan.jpg",
+        "year": 1965,
+        "genre": "Folk Rock"
+    },
+    {
+        "title": "Anime salve",
+        "artist": "Fabrizio De Andre",
+        "cover_url": ".\/image\/deandre.jpg",
+        "year": 1996,
+        "genre": "Folk"
+    },
+    {
+        "title": "Nevermind",
+        "artist": "Nirvana",
+        "cover_url": ".\/image\/nirvana.jpg",
+        "year": 1991,
+        "genre": "Grunge"
+    },
+    {
+        "title": "The Dark Side of the Moon",
+        "artist": "Pink Floyd",
+        "cover_url": ".\/image\/pinkfloyd.jpg",
+        "year": 1973,
+        "genre": "Progressive Rock"
+    },
+    {
+        "title": "A Night at the Opera",
+        "artist": "Queen",
+        "cover_url": ".\/image\/queen.jpg",
+        "year": 1975,
+        "genre": "Rock"
+    },
+    {
+        "title": "Oro Incenso & Birra",
+        "artist": "Zucchero",
+        "cover_url": ".\/image\/zucchero.jpg",
+        "year": 1989,
+        "genre": "Blues Rock"
+    }
+]
