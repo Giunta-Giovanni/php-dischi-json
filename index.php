@@ -1,5 +1,6 @@
 <?php
-require_once('./server.php')
+// session_start();
+require_once('server.php');
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -16,10 +17,36 @@ require_once('./server.php')
     <header>
         <h1>
             Songibles
+
         </h1>
     </header>
     <main>
         <div class="container">
+        <!-- aggiungi un nuvo album -->
+        <div class="form-container">
+            <h4 class="text-center mb-4">Inserisci Nuovo Elemento</h4>
+
+            <form action="./server.php" method="post" enctype="multipart/form-data">
+    
+                <label for="title" class="form-label">Titolo</label>
+                <input type="text" class="form-control" name="title" placeholder="Inserisci il titolo" required>
+
+                <label for="genre" class="form-label">Genere</label>
+                <input type="text" class="form-control" name="genre" placeholder="Inserisci il genere" required>
+
+                <label for="artist" class="form-label">Artista</label>
+                <input type="text" class="form-control" name="artist" placeholder="Inserisci l'artista" required>
+
+                <label for="year" class="form-label">Anno</label>
+                <input type="text" class="form-control" name="year" placeholder="Inserisci l'anno" required>
+
+                <label for="fileUpload" class="form-label">Seleziona un file</label>
+                <input type="file" class="form-control" id="fileUpload" name="fileUpload" required>
+
+                <button type="submit" class="btn btn-primary w-100">Inserisci</button>
+
+            </form>
+        </div>
             <div class="row m-3">
                 <?php
                 foreach($records as $record){
@@ -35,8 +62,11 @@ require_once('./server.php')
                         </div>
                     </div>
                 </div> 
+
                 <?php
                     }
+
+                    var_dump($_SESSION);
                     ?>    
             </div>
         </div>
